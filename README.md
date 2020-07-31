@@ -9,7 +9,7 @@
 
 The project is aimed at ensuring search engine optimization by improving Horiseon's existing codebase for long term sustainability while following accessibility standards.  
 
-***[Horiseon Social Solution Services](https://RawnieCole.github.io/01-challenge-code-refactor/)
+***[Horiseon Social Solution Services](https://RawnieCole.github.io/01-challenge-code-refactor/)***
 
  ### Requirements
  
